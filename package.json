@@ -11,7 +11,7 @@
     "expose-loader": "^0.7.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "stats-webpack-plugin": "^0.2.1",
+    "stats-webpack-plugin": "^0.4.2",
     "webpack": "^1.9.11",
     "webpack-dev-server": "^1.9.0"
   }

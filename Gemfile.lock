@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/matthieua/webpack-rails.git
-  revision: 85795ba501f88b9bd5c8669ebd34ad748bf36dc6
+  remote: https://github.com/matthieua/webpack-rails
+  revision: 90b21c2dd51c524002383eddcb3db5d37f9d9e89
   branch: React
   specs:
     webpack-rails (0.9.9)
