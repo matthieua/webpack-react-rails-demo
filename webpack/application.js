@@ -1,10 +1,4 @@
-var oldLoad = window.onload;
+console.log("Hello world!");
+require('./vendor/react_ujs');
 
-window.onload = function() {
-  document.getElementById("webpack").innerHTML = "Webpack works!";
-
-  if (oldLoad) {
-    oldLoad();
-  }
-};
-
+window.Hello    = require('./components/hello').default;
